@@ -1,12 +1,5 @@
-# 前言
-这已经是帮数媒的同学写的第三份作业了。。。
-
-[第一份：文字小冒险游戏](https://blog.csdn.net/weixin_43734095/article/details/103450742)
-
-[第二份：英汉字典](https://blog.csdn.net/weixin_43734095/article/details/103501029)
 
 # 知识点
-老样子，为了帮他们应付作业随便写了点知识点。
 
 1. 利用JavaFx来制作界面，实现了一个牧场游戏的界面，界面优美精良,用到了BorderPane布局。
 2. JavaFx的UI组件利用了Button，Label，Image，ImageView，ListView等。
